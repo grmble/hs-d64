@@ -6,7 +6,3 @@ a copy-pastable, url friendly, ascii embeddable, lexiographicly sortable binary 
 
 * d64: base package
 * d64-uuid: time order preserving encoding for v1 uuids
-
-
-
-
