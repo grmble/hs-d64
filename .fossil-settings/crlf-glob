@@ -1,0 +1,8 @@
+*.hs
+*.purs
+*.css
+*.js
+*.md
+*.yaml
+*.cabal
+**/LICENSE
