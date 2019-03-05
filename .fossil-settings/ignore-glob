@@ -13,6 +13,3 @@ TAGS
 x.*
 *.cabal
 *.log
-.fossgit/git_checkout_dir
-.fossgit/fossil.marks
-.fossgit/git.marks
